@@ -1,0 +1,49 @@
+body {
+	background-color: lightblue;
+}
+#intro {
+	padding-left: 30%;
+	width: 40%;
+}
+.left {
+	padding-top: 128px;
+	padding-left: 256px;
+	float: left;
+	width: 35%;	
+}
+.right {
+	padding-top: 16px;
+	padding-right: 256px;
+	float: right;
+	width: 30%;
+}
+.optionMenu {
+	padding-top: 64px;
+	text-align: center;
+}
+#poster {
+	height: 256px;
+}
+p {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: darkblue;
+}
+span.hidden-message{
+  opacity: 0.0;
+}
+span.shown-message{
+  opacity: 1.0;
+}
+.answerBox {
+	width: 4em;
+}
+#getResult {
+	text-align: center;
+}
+p.question {
+	width: 25%;
+	text-align: left;
+}
+.resultMenu {
+	padding-bottom: 48px;
+}
